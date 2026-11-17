@@ -1,0 +1,1 @@
+Real local browser captures from November 17, 2026, for blood-connect-team/BloodConnect#85 at commit b1918014ac54f2a1a99eda27fabfe5bb98eea01c. Synthetic data only; external browser requests blocked. Evidence branch; not part of the contribution diff.
