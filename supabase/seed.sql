@@ -1,0 +1,4 @@
+-- Seed data for LOCAL development and CI only (`supabase db reset` / `supabase db start`).
+-- Reference data that every environment needs (e.g. the city list) lives in migrations, not here.
+-- Put only SYNTHETIC test records here (e.g. "Test Donor", +923000000000, donor@example.com).
+-- Never real people, phone numbers or emails.
